@@ -23,7 +23,7 @@
 3. Updating Authentication (there are not all api endpoints protected by authentication, need to investigate it deeply)
 4. Adding .env file (for external environments such as db user and password..)
 
-## API Endpoints
+## API Endpoints (Test using Postman)
     api/token/ - Receive JWT token
     api/token/refresh/ - Refresh JWT token
 
