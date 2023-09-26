@@ -21,6 +21,7 @@
 1. Making separate logic (different apps) for Employee, Restaurants and Menu. Because there are all mixed logic in one api view.
 2. Adding api v1 with similar logic (not enough time to do it)
 3. Updating Authentication (there are not all api endpoints protected by authentication, need to investigate it deeply)
+4. Adding .env file (for external environments such as db user and password..)
 
 ## API Endpoints
     api/token/ - Receive JWT token
